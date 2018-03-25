@@ -11,6 +11,16 @@ public class HomePage {
 	{
 		System.out.println("Its my home page");
 	}
+
+	public void HomePage2()
+	{
+		System.out.println("Its my home page2");
+	}
+
+	public void HomePage3()
+	{
+		System.out.println("Its my home page3");
+	}
 	
 
 }
