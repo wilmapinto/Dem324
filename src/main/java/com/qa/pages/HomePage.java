@@ -25,6 +25,11 @@ public class HomePage {
 	{
 		System.out.println("Its my home page4");
 	}
+
+	public void HomePage5()
+	{
+		System.out.println("Its my home page5");
+	}
 	
 
 }
