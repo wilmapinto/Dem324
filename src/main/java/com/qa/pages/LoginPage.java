@@ -11,5 +11,9 @@ public class LoginPage {
 	{
 		System.out.println("Login1");
 	}
+	public void LoginPagemethod2()
+	{
+		System.out.println("Login2");
+	}
 
 }
