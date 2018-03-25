@@ -7,5 +7,10 @@ public class HomePage {
 		System.out.println("Its my home page");
 	}
 	
+	public void HomePage1()
+	{
+		System.out.println("Its my home page");
+	}
+	
 
 }
